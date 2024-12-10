@@ -98,3 +98,4 @@ y2mate==1.0.0
 y2mate-api==1.0.4
 yarg==0.1.9
 yarl==1.9.4
+Flask==2.3.3
